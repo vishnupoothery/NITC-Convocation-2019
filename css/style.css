@@ -1,0 +1,31 @@
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.outer-box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.inner-box{
+    background-color: #135C83;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.content-box{
+    padding: 5px;
+}
+
+hr{
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+a{
+    color: black;
+}
+
+body{
+    background-color: #F0F0F0;
+}
